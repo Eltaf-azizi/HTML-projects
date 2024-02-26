@@ -1,2 +1,2 @@
- I made this project when I was firstly learning HTML
+ I made this project when I was learning HTML ans css
  
