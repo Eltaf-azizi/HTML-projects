@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L.messi</title>  
+    <body>
+        
+    <style>
+ 
+        *{
+            margin: 0;
+            padding: 0;
+       
+        }
+        #first{
+          background-color: aqua;
+          display: inline;
+        }
+        .bg-blue {
+            /* this is to provide default background */
+            background-color: red;
+            color: white;
+        }
+        .content{
+            width: 334px;
+            height: 125px;
+            background: blue;
+            color: aqua;
+            margin: 14;
+            padding: 13;
+            border: 4px solid black;
+            /* border-width: 2px;
+            border-style: dashed double dotted;
+            border-color: royalblue; */
+            border-radius: 7px;
+        }
+        .box1{
+            background-color: orange;
+            color: white;
+        }
+        .box2{
+            background-color: greenyellow;
+            color: red;
+            padding: 6px;
+            border: 5px solid grey;
+            width: 14px;
+            border: solid aqua 10px;
+            padding: 15px;
+        }
+        #second{
+            background-color: brown;
+            color: blue;
+            display: inline;
+        }
+        .red{
+            background-color: chocolate;
+            color: white;
+        }
+        .box1{
+            display: inline;
+            width: 345px;
+            height: 432px;
+            background: orangered;
+        }
+        .box2{
+            width: 345px;
+            height: 432px;
+            background: greenyellow;
+            color: red;
+        }
+        .container{
+            display: grid;
+            background-color: yellow;
+            grid-column-gap: 9px;
+            grid-row-gap: 9px;
+            /* grid-template-columns: 345px 543px; */
+            align-content: center;
+            justify-content: center;
+            height: 56vh;
+            grid-template-columns: auto auto auto auto;
+            transform: translate(67px) rotate(1234deg);
+        }
+        .item{
+            background-color: aqua;
+            border: 2px solid red;
+        }
+    </style>
+    </body>
+    <h1>Wellcome!</h1>
+    <button>Click Me</button>
+    <h1>events</h1>
+    <button onclick="alert('you clicked me!'); alert('stop clicking me')">click me!</button>
+    <button onclick="alert('you clicked me!'); alert('stop clicking me')">click me too!</button>
+    <button id="v2">click me ( 2nd version)</button>
+    <button id="v3">click me ( 3rd version)</button>
+</head>
+
+<div class="container">
+    <div class="item">1</div>
+    <div class="item">2</div>
+    <div class="item">3</div>
+    <div class="item">4</div>
+    <div class="item">5</div>
+    <div class="item">6</div>
+    <div class="item">7</div>
+    <div class="item">8</div>
+    <div class="item">9</div>
+</div>
+    <div class="box1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque at officia tenetur dolorem, molestias voluptatibus? Sequi ducimus incidunt aperiam, dolorem excepturi dicta deleniti cupiditate porro ab odit atque reprehenderit in necessitatibus saepe nulla ipsam.</div>
+    <div class="box2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat quas repellendus error maiores similique voluptatum, labore architecto possimus obcaecati eius tempora hic aliqua.</div>
+    <div id="first"> first</div>  
+    <div id="second">second</div>
+    <section class="red">red  </section>
+        <section class="bg-blue border-purple">red bg blue border purple</section>
+    <div class="box1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores distinctio ducimus eum, voluptate beatae corporis illo consequatur cupiditate autem alias ad quibusdam unde maiores, hic molestias! Doloribus velit eaque aliquid blanditiis labore quisquam quam.</div>
+    <div class="box2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate expedita consequatur ducimus doloribus incidunt, delectus ipsam reprehenderit sequi possimus fugit, dolorum porro facere alias.</div>
+    <div class="box">
+    </div>
+</body>
+</html>
