@@ -15,6 +15,6 @@ Welcome to my collection of HTML practice files! This repository serves as a dig
 I've relied on several resources to grow my HTML skills throughout my practice. Here are a few recommendations for anyone looking to deepen their understanding of HTML:
 
 MDN Web Docs(https://developer.mozilla.org/en-US/docs/Web/HTML) HTML: Comprehensive guide and reference to HTML.
-W3Schools(https://www.w3schools.com/html/) - HTML Tutorial: Interactive HTML tutorials and examples.
-HTML5 Up: Beautiful, responsive HTML templates to practice with and inspire your projects.
+W3Schools(https://www.w3schools.com/html/) HTML Tutorial: Interactive HTML tutorials and examples.
+HTML5 Up(https://html5up.net/): Beautiful, responsive HTML templates to practice with and inspire your projects.
  
