@@ -10,4 +10,11 @@ Welcome to my collection of HTML practice files! This repository serves as a dig
 - **Tables**: Understand the creation and styling of tables for data presentation.
 - **Media Embedding**: Practice embedding images, videos, and audio for rich multimedia content.
 - **Accessibility Practices**: Implement accessibility features to make web content more accessible to all users.
+
+## Learning Resources
+I've relied on several resources to grow my HTML skills throughout my practice. Here are a few recommendations for anyone looking to deepen their understanding of HTML:
+
+MDN Web Docs(https://developer.mozilla.org/en-US/docs/Web/HTML) HTML: Comprehensive guide and reference to HTML.
+W3Schools() - HTML Tutorial: Interactive HTML tutorials and examples.
+HTML5 Up: Beautiful, responsive HTML templates to practice with and inspire your projects.
  
