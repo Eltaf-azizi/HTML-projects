@@ -19,4 +19,4 @@ W3Schools(https://www.w3schools.com/html/) HTML Tutorial: Interactive HTML tutor
 HTML5 Up(https://html5up.net/): Beautiful, responsive HTML templates to practice with and inspire your projects.
 
  ## Contributing
-While this repository is primarily for my personal practice, I welcome feedback, suggestions, and contributions! If you have ideas on how to improve these exercises or want to share your own learning journey, feel free to fork the repo and submit a pull request.
+While this repository is primarily for my practice, I welcome feedback, suggestions, and contributions! If you have ideas on improving these exercises or want to share your learning journey, feel free to fork the repo and submit a pull request.
